@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "TechVista Solutions",
+    "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop",
+    "location": "Hyderabad, IN",
+    "industry": "Fintech",
+    "size": "51-200",
+    "website": "https://techvista.example.com",
+    "description": "Leading fintech platform revolutionizing digital payments across South Asia."
+  },
+  {
+    "id": "2",
+    "name": "DataFlow Analytics",
+    "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop",
+    "location": "Bangalore, IN",
+    "industry": "Data Analytics",
+    "size": "201-500",
+    "website": "https://dataflow.example.com",
+    "description": "Advanced business intelligence and data analytics solutions for enterprises."
+  },
+  {
+    "id": "3",
+    "name": "CloudNest Technologies",
+    "logo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop",
+    "location": "Mumbai, IN",
+    "industry": "Cloud Services",
+    "size": "501-1000",
+    "website": "https://cloudnest.example.com",
+    "description": "Enterprise cloud infrastructure and managed services provider."
+  },
+  {
+    "id": "4",
+    "name": "SecureGuard Systems",
+    "logo": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=200&h=200&fit=crop",
+    "location": "Delhi, IN",
+    "industry": "Cybersecurity",
+    "size": "51-200",
+    "website": "https://secureguard.example.com",
+    "description": "Cutting-edge cybersecurity solutions protecting businesses from digital threats."
+  },
+  {
+    "id": "5",
+    "name": "HealthPlus Digital",
+    "logo": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=200&h=200&fit=crop",
+    "location": "Pune, IN",
+    "industry": "Healthcare Tech",
+    "size": "11-50",
+    "website": "https://healthplus.example.com",
+    "description": "Digital health platform connecting patients with healthcare providers seamlessly."
+  },
+  {
+    "id": "6",
+    "name": "EduLearn Platform",
+    "logo": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&h=200&fit=crop",
+    "location": "Chennai, IN",
+    "industry": "EdTech",
+    "size": "201-500",
+    "website": "https://edulearn.example.com",
+    "description": "Innovative online learning platform making education accessible to millions."
+  },
+  {
+    "id": "7",
+    "name": "RetailPro Commerce",
+    "logo": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=200&h=200&fit=crop",
+    "location": "Hyderabad, IN",
+    "industry": "E-commerce",
+    "size": "1001-5000",
+    "website": "https://retailpro.example.com",
+    "description": "Full-stack e-commerce platform powering next-gen online retail experiences."
+  },
+  {
+    "id": "8",
+    "name": "GreenEnergy Solutions",
+    "logo": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=200&h=200&fit=crop",
+    "location": "Bangalore, IN",
+    "industry": "Clean Energy",
+    "size": "51-200",
+    "website": "https://greenenergy.example.com",
+    "description": "Sustainable energy solutions accelerating the transition to renewable power."
+  },
+  {
+    "id": "9",
+    "name": "LogiTrack Systems",
+    "logo": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=200&h=200&fit=crop",
+    "location": "Mumbai, IN",
+    "industry": "Logistics",
+    "size": "501-1000",
+    "website": "https://logitrack.example.com",
+    "description": "Smart logistics and supply chain management platform for global trade."
+  },
+  {
+    "id": "10",
+    "name": "AIvance Labs",
+    "logo": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop",
+    "location": "Delhi, IN",
+    "industry": "Artificial Intelligence",
+    "size": "11-50",
+    "website": "https://aivance.example.com",
+    "description": "Research-focused AI lab developing next-generation machine learning models."
+  },
+  {
+    "id": "11",
+    "name": "MarketMind Analytics",
+    "logo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=200&h=200&fit=crop",
+    "location": "Pune, IN",
+    "industry": "Marketing Tech",
+    "size": "201-500",
+    "website": "https://marketmind.example.com",
+    "description": "AI-powered marketing analytics helping brands optimize their campaigns."
+  },
+  {
+    "id": "12",
+    "name": "TravelEase Solutions",
+    "logo": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=200&h=200&fit=crop",
+    "location": "Chennai, IN",
+    "industry": "Travel Tech",
+    "size": "51-200",
+    "website": "https://travelease.example.com",
+    "description": "Comprehensive travel booking and management platform for modern travelers."
+  },
+  {
+    "id": "13",
+    "name": "PropTech Innovations",
+    "logo": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=200&h=200&fit=crop",
+    "location": "Hyderabad, IN",
+    "industry": "Real Estate Tech",
+    "size": "11-50",
+    "website": "https://proptech.example.com",
+    "description": "Digital platform transforming real estate transactions and property management."
+  },
+  {
+    "id": "14",
+    "name": "FoodieConnect",
+    "logo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&h=200&fit=crop",
+    "location": "Bangalore, IN",
+    "industry": "Food Tech",
+    "size": "501-1000",
+    "website": "https://foodieconnect.example.com",
+    "description": "Cloud kitchen platform connecting chefs with customers nationwide."
+  },
+  {
+    "id": "15",
+    "name": "AutoDrive Systems",
+    "logo": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=200&h=200&fit=crop",
+    "location": "Mumbai, IN",
+    "industry": "Automotive Tech",
+    "size": "201-500",
+    "website": "https://autodrive.example.com",
+    "description": "Autonomous vehicle technology and smart mobility solutions."
+  },
+  {
+    "id": "16",
+    "name": "FinSecure Plus",
+    "logo": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=200&h=200&fit=crop",
+    "location": "Delhi, IN",
+    "industry": "Fintech",
+    "size": "51-200",
+    "website": "https://finsecure.example.com",
+    "description": "Secure digital banking and wealth management platform."
+  },
+  {
+    "id": "17",
+    "name": "GameForge Studios",
+    "logo": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=200&h=200&fit=crop",
+    "location": "Pune, IN",
+    "industry": "Gaming",
+    "size": "11-50",
+    "website": "https://gameforge.example.com",
+    "description": "Mobile-first gaming studio creating immersive multiplayer experiences."
+  },
+  {
+    "id": "18",
+    "name": "SocialHub Connect",
+    "logo": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=200&h=200&fit=crop",
+    "location": "Chennai, IN",
+    "industry": "Social Media",
+    "size": "201-500",
+    "website": "https://socialhub.example.com",
+    "description": "Enterprise social networking platform for team collaboration."
+  },
+  {
+    "id": "19",
+    "name": "BlockChain Ventures",
+    "logo": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=200&h=200&fit=crop",
+    "location": "Hyderabad, IN",
+    "industry": "Blockchain",
+    "size": "11-50",
+    "website": "https://blockchainventures.example.com",
+    "description": "Decentralized solutions leveraging blockchain for transparent business operations."
+  },
+  {
+    "id": "20",
+    "name": "MediaStream Pro",
+    "logo": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=200&h=200&fit=crop",
+    "location": "Bangalore, IN",
+    "industry": "Media Tech",
+    "size": "501-1000",
+    "website": "https://mediastream.example.com",
+    "description": "High-performance video streaming and content delivery network."
+  },
+  {
+    "id": "21",
+    "name": "AgriTech Solutions",
+    "logo": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=200&h=200&fit=crop",
+    "location": "Mumbai, IN",
+    "industry": "AgriTech",
+    "size": "51-200",
+    "website": "https://agritech.example.com",
+    "description": "Smart farming solutions using IoT and AI for sustainable agriculture."
+  },
+  {
+    "id": "22",
+    "name": "InsureTech Plus",
+    "logo": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=200&h=200&fit=crop",
+    "location": "Delhi, IN",
+    "industry": "Insurance Tech",
+    "size": "201-500",
+    "website": "https://insuretech.example.com",
+    "description": "Digital insurance platform simplifying policy management and claims."
+  },
+  {
+    "id": "23",
+    "name": "FashionForward",
+    "logo": "https://images.unsplash.com/photo-1558769132-cb1aea1f9eb2?w=200&h=200&fit=crop",
+    "location": "Pune, IN",
+    "industry": "Fashion Tech",
+    "size": "11-50",
+    "website": "https://fashionforward.example.com",
+    "description": "AI-powered fashion recommendation and virtual try-on platform."
+  },
+  {
+    "id": "24",
+    "name": "SmartHome Systems",
+    "logo": "https://images.unsplash.com/photo-1558002038-1055907df827?w=200&h=200&fit=crop",
+    "location": "Chennai, IN",
+    "industry": "IoT",
+    "size": "51-200",
+    "website": "https://smarthome.example.com",
+    "description": "Integrated smart home automation and energy management solutions."
+  }
+]
