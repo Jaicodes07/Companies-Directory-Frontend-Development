@@ -10,15 +10,14 @@ export const applyFilters = (
   industries: string[]
 ): Company[] => {
   return companies.filter((company) => {
-    // Search filter (name contains search term, case-insensitive)
     const matchesSearch =
       search === '' || company.name.toLowerCase().includes(search.toLowerCase());
 
-    // Location filter (AND logic - must match selected locations)
+    // Location filter -AND logic - must match selected locations
     const matchesLocation =
       locations.length === 0 || locations.includes(company.location);
 
-    // Industry filter (AND logic - must match selected industries)
+    // Industry filter -AND logic - must match selected industries
     const matchesIndustry =
       industries.length === 0 || industries.includes(company.industry);
 
@@ -26,7 +25,7 @@ export const applyFilters = (
   });
 };
 
-/**
+/*
  * Sort companies by name with specified order
  */
 export const applySort = (
@@ -39,7 +38,7 @@ export const applySort = (
   });
 };
 
-/**
+/*
  * Paginate companies array
  */
 export const paginate = (
@@ -52,14 +51,14 @@ export const paginate = (
   return companies.slice(startIndex, endIndex);
 };
 
-/**
+/*
  * Calculate total pages
  */
 export const getTotalPages = (totalItems: number, pageSize: number): number => {
   return Math.ceil(totalItems / pageSize);
 };
 
-/**
+/*
  * Extract unique values from company field
  */
 export const getUniqueValues = (

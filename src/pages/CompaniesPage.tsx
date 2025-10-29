@@ -118,22 +118,36 @@ export const CompaniesPage = () => {
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
-      <header className="border-b border-border bg-card">
-        <div className="container mx-auto px-4 py-8">
-          <div className="flex items-center gap-3 mb-2">
-            <div className="p-2 rounded-lg bg-primary/10">
-              <Building2 className="w-6 h-6 text-primary" />
-            </div>
-            <h1 className="text-3xl md:text-4xl font-bold text-foreground">
-              Company Directory
-            </h1>
-          </div>
-          <p className="text-muted-foreground max-w-2xl">
-            Explore our curated directory of innovative companies across various industries.
-            Filter by location, industry, and search to find the perfect match.
-          </p>
-        </div>
-      </header>
+      <header className="border-b border-border bg-card shadow-md relative overflow-hidden">
+  {/* Animated RGB glow around header */}
+  <div className="absolute inset-0 rounded-lg animate-rgb-glow pointer-events-none"></div>
+
+  <div className="container mx-auto px-4 py-8 relative z-10">
+    <div className="flex items-center gap-3 mb-2">
+      {/* Logo */}
+      <div className="p-2 rounded-lg bg-white shadow-lg">
+        <img
+          src="https://static.vecteezy.com/system/resources/previews/007/741/168/large_2x/letter-c-d-cd-logo-icon-design-free-vector.jpg"
+          alt="Company Directory Logo"
+          className="h-14 w-14 object-contain rounded-md"
+        />
+      </div>
+
+      {/* Title */}
+      <h1 className="text-3xl md:text-4xl font-bold text-foreground">
+        Company Directory
+      </h1>
+    </div>
+    
+
+    {/* Subheading */}
+    <p className="text-muted-foreground max-w-2xl">
+      Explore our curated directory of innovative companies across various industries.
+      Filter by location, industry, and search to find the perfect match.
+    </p>
+  </div>
+</header>
+
 
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">

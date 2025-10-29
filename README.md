@@ -5,7 +5,7 @@ You can search, filter, sort, and browse companies with clean pagination and smo
 
 ---
 
-### ✨ Features
+### Features
 - **Search** companies by name (debounced input for performance)
 - **Filter** by location and industry — works together with search
 - **Sort** alphabetically (A→Z / Z→A) using a stable comparator
@@ -14,14 +14,14 @@ You can search, filter, sort, and browse companies with clean pagination and smo
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 - **React 18** with hooks for state and side effects  
 - **Vite** for super-fast dev server and builds  
 - **Tailwind CSS** for responsive, modern styling  
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 **Requirements:** Node.js 18+ and npm installed
 
 ```bash
